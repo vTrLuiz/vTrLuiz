@@ -41,16 +41,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/victorluix">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=victorluix&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/vtrLuiz/vtrLuiz/output/snake.svg" alt="Snake animation" />
 
 ###
